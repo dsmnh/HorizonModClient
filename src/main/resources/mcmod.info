@@ -1,0 +1,12 @@
+[
+    {
+      "modid": "${modId}",
+      "name": "${modName}",
+      "description": "Horizon client-side mod: sidebar entry, UI and ME block display resources",
+      "version": "${modVersion}",
+      "mcversion": "${minecraftVersion}",
+      "url": "https://github.com/dsmnh",
+      "authorList": ["dsmnh"],
+      "dependencies": []
+    }
+]
