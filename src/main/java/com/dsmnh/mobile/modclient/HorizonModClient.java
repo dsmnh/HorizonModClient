@@ -10,7 +10,7 @@ import org.apache.logging.log4j.Logger;
  * 当前为立仓骨架；侧栏 Hook 与显示资源按企划书阶段 6 迁移（AEMobile TabOverlayHook 为底）。
  */
 @Mod(modid = Tags.MODID, name = Tags.MODNAME, version = Tags.VERSION,
-        acceptedMinecraftVersions = "[1.7.10]", clientSideOnly = true)
+        acceptedMinecraftVersions = "[1.7.10]")
 public final class HorizonModClient {
     public static final Logger LOG = LogManager.getLogger("dsmnhmobile-client");
 
