@@ -1,0 +1,9 @@
+{
+	"horizon": {
+		"group": "dsmnhmobile:horizon",
+		"icon": "dsmnhmobile:textures/gui/sidebar/horizon.png",
+		"x": 0,
+		"click": "command:/dsmnhmobile team info",
+		"required_server_mods": ["dsmnhmobile"]
+	}
+}
